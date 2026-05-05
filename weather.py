@@ -14,7 +14,7 @@ from datetime import datetime
 
 
 # paste your api key here
-MY_API_KEY = "2a5e18e40fdebdc3e7c31cedfd46ae63"
+MY_API_KEY = "your_api_key_here"   # replace with placeholder
 
 WEATHER_URL  = "https://api.openweathermap.org/data/2.5/weather"
 FORECAST_URL = "https://api.openweathermap.org/data/2.5/forecast"
